@@ -1,5 +1,6 @@
 public class _EatFood : ISnakeState
 {
+    //ТЕСТ НА конфликт 1
     public void LookFood(Snake snake)
     {
         Console.WriteLine("Змея в поисках еды");
